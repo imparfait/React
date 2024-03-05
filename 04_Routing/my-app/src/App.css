@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.menu{
+  display: inline-flex;
+  flex-direction:row;
+  align-items: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+.div-page{
+  padding: 15px;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.nav-div{
+  margin:10px;
+  display:inline-block;
+  width: 70px;
+  height: 50px;
+  background-color: rgb(63, 167, 167);
+  border-radius: 8px;
+  vertical-align:middle;
+  text-align: center;
+  
+}
+.nv{
+  line-height: 45px;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+}
+.bio{
+  padding: 15px;
+  text-align:justify ;
+}
+.famp{
+  text-align: left;
+}
+.famp-img{
+  float:left;
+  margin-right: 10px;
+}
+.pict{
+  display:block;
+  margin: 15px;
+}
+li{
+  list-style-type: none;
+}
+.name{
+  margin: 15px;
+  font-weight: bolder;
+  display:inline-block;
+  vertical-align:middle;
+}
