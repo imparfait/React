@@ -1,0 +1,17 @@
+.App {
+  padding: 25px;
+  text-align: left;
+}
+p{
+  margin: 10px;
+}
+
+label{
+  margin: 10px;
+}
+input{
+  margin: 10px;
+}
+span{
+  margin: 5px;
+}
