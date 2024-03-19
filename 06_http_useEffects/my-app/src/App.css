@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#time {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+#view-mode{
+  font-size: medium;
+}
