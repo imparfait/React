@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.nav {
+  margin-top: 1rem;
+}
+
+.nav a {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.event-list {
+  padding: 1rem;
+}
+
+.event-card {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.event-card h3 {
+  margin-top: 0;
+}
+
+.event-card button {
+  margin-top: 0.5rem;
+}
+
+.favorites {
+  padding: 1rem;
+}
+
+.favorite-event {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
