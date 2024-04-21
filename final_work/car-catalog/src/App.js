@@ -10,7 +10,7 @@ function App() {
   const [filteredCars, setFilteredCars] = useState([]);
   
   useEffect(() => {
-    const storedCars = JSON.parse(localStorage.getItem('cars'));
+    const storedCars = JSON.parse(localStorage.getItem('cars')) ||[];
     setCars(storedCars);
     setFilteredCars(storedCars);
   }, []);
